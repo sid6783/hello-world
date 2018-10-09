@@ -1,0 +1,5 @@
+#include(STDIO.H)
+VIOD MAIN()
+(
+PRINTF("HELLO-WORLD");
+)
